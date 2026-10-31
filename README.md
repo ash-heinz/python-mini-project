@@ -637,12 +637,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
       </a>
     </td>
     <td align="center" width="120">
-      <a href="https://github.com/shimonenator">
-        <img src="https://github.com/shimonenator.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shimonenator" /><br />
-        <sub><b>@shimonenator</b></sub>
-      </a>
-    </td>
-    <td align="center" width="120">
       <a href="https://github.com/shreyasarote07">
         <img src="https://github.com/shreyasarote07.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="shreyasarote07" /><br />
         <sub><b>@shreyasarote07</b></sub>
@@ -654,14 +648,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@shreyasgawande19</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/siri-004">
         <img src="https://github.com/siri-004.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="siri-004" /><br />
         <sub><b>@siri-004</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/snehacodes-2906">
         <img src="https://github.com/snehacodes-2906.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="snehacodes-2906" /><br />
@@ -692,14 +686,14 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@tanishkakora</b></sub>
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <a href="https://github.com/vedansht2211">
         <img src="https://github.com/vedansht2211.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="vedansht2211" /><br />
         <sub><b>@vedansht2211</b></sub>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <a href="https://github.com/vedika76">
         <img src="https://github.com/vedika76.png?size=100" width="100" height="100" style="border-radius:50%; border:2px solid #555;" alt="vedika76" /><br />
@@ -718,6 +712,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
         <sub><b>@vivekCS007</b></sub>
       </a>
     </td>
+    <td width="120"></td>
     <td width="120"></td>
     <td width="120"></td>
   </tr>
